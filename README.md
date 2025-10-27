@@ -39,9 +39,10 @@
      - although not game development i think i could excel once learning the pipeline of software development. I think my strong passion and my current programming skills could really help me develop in this roll
      - Would need to get more experience with python and c++
 
-### Resume 
+## Resume 
      - I believe that my resume is very general and could work for any of these positions
-     - [Brandin Stanfield Programming Resume](https://github.com/user-attachments/files/23174253/Brandin.Stanfield.Programming.Resume.pdf)
+     - [Brandin Stanfield Programming Resume.pdf](https://github.com/user-attachments/files/23174320/Brandin.Stanfield.Programming.Resume.pdf)
+
 ---
 
 # About Me
