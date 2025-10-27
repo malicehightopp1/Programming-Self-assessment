@@ -41,9 +41,9 @@
      - Would need to get more experience with python and c++
 
 ---
-# Resume 
-## Brandin Stanfield
-  ### Gameplay/Ui Programmer | Unreal Engines & Unity
+# Brandin Stanfield
+---
+  ## Gameplay/Ui Programmer | Unreal Engines & Unity
  - Phone: 254-913-1208
  - Email: Brandin.stanfield@gmail.com
  - Linkedin: [https://www.linkedin.com/in/brandin-stanfield-b9a6b6334/]
