@@ -24,7 +24,7 @@
 ---
 # Job findings
 - 1. [Epic games UI/UX](https://www.linkedin.com/jobs/search/?currentJobId=4311226313&f_C=19327&geoId=92000000&origin=COMPANY_PAGE_JOBS_CLUSTER_EXPANSION&originToLandingJobPostings=4312897838%2C4307038568%2C4308287387%2C4311226313%2C4295726691%2C4314579678%2C4311207619%2C4315653966%2C4312650824&trk=d_flagship3_company_posts)
-     - [Brandin Stanfield Programming Resume](https://github.com/user-attachments/files/23174253/Brandin.Stanfield.Programming.Resume.pdf)
+     - [Brandin Stanfield Programming Resume](./Brandin Stanfield Programming Resume.pdf)
      - The position is not just about the job but also about learning and refining my skills in UI/UX, I think i have lots of passion for UI programming and met most the requirements besides the c++ skill requirement. 
      - I would need to work on my c++ skills being the main requirement for this position
 - 2. [Godot programmer](https://www.indeed.com/jobs?q=game+programmer&l=San+Antonio%2C+TX&sc=0kf%3Aattr%2875GKK%29%3B&radius=100&vjk=6bce366b1c193f63)
