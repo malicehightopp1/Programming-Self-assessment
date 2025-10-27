@@ -42,8 +42,9 @@
 ---
 
 # About Me
-## Brandin Stanfield
 ---
+## Brandin Stanfield
+
   ### Gameplay/Ui Programmer | Unreal Engines & Unity
  - Phone: 254-913-1208
  - Email: Brandin.stanfield@gmail.com
