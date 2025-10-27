@@ -40,8 +40,9 @@
      - Would need to get more experience with python and c++
 
 ## Resume 
-     - I believe that my resume is very general and could work for any of these positions
-     - [Brandin Stanfield Programming Resume.pdf](https://github.com/user-attachments/files/23174320/Brandin.Stanfield.Programming.Resume.pdf)
+
+- I believe that my resume is very general and could work for any of these positions
+- [Brandin Stanfield Programming Resume.pdf](https://github.com/user-attachments/files/23174320/Brandin.Stanfield.Programming.Resume.pdf)
 
 ---
 
