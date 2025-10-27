@@ -41,6 +41,7 @@
      - Would need to get more experience with python and c++
 
 ---
+
 # Brandin Stanfield
 ---
   ## Gameplay/Ui Programmer | Unreal Engines & Unity
@@ -64,6 +65,8 @@
   - Adobe Certified Associate in Visual Design Using Adobe Photoshop | 2024
   - Adobe Certified Associate in Graphic Design & Illustration Using Adobe Illustrator | 2024
 
+
+[Programming resume](https://github.com/user-attachments/files/23174007/Programming.resume.pdf)
 
 ---
 
