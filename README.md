@@ -42,12 +42,12 @@
 
 ---
 # Resume 
-### Brandin Stanfield
-Gameplay/Ui Programmer | Unreal Engines & Unity
-Phone: 254-913-1208
-Email: Brandin.stanfield@gmail.com
-Linkedin: [https://www.linkedin.com/in/brandin-stanfield-b9a6b6334/]
-Portfolio: [https://github.com/malicehightopp1]
+## Brandin Stanfield
+  ### Gameplay/Ui Programmer | Unreal Engines & Unity
+ - Phone: 254-913-1208
+ - Email: Brandin.stanfield@gmail.com
+ - Linkedin: [https://www.linkedin.com/in/brandin-stanfield-b9a6b6334/]
+ - Portfolio: [https://github.com/malicehightopp1]
 
 # Education 
   ## University of the Incarnate Word | 2024-2028
