@@ -21,7 +21,8 @@
 # Programming Specilization 
  - My top choice for programming Specialization would have to be a UI/UX programmer.
  - alternatively a gameplay programmer have the most experience with those two types of programming.
-  
+
+---
 # Job findings
 - 1. [Epic games UI/UX](https://www.linkedin.com/jobs/search/?currentJobId=4311226313&f_C=19327&geoId=92000000&origin=COMPANY_PAGE_JOBS_CLUSTER_EXPANSION&originToLandingJobPostings=4312897838%2C4307038568%2C4308287387%2C4311226313%2C4295726691%2C4314579678%2C4311207619%2C4315653966%2C4312650824&trk=d_flagship3_company_posts)
      - The position is not just about the job but also about learning and refining my skills in UI/UX, I think i have lots of passion for UI programming and met most the requirements besides the c++ skill requirement. 
@@ -38,3 +39,5 @@
 - 5. [Winter co-opc - software development](https://www.linkedin.com/jobs/search/?currentJobId=4297334760&f_C=4048%2C80970%2C2038074%2C9651%2C11905%2C37427%2C30532%2C21344&geoId=92000000&origin=COMPANY_PAGE_JOBS_CLUSTER_EXPANSION&originToLandingJobPostings=4296168115%2C4296160890%2C4312930214%2C4296637408%2C4298140465%2C4297334760%2C4296162519%2C4296171108%2C4308652412&trk=d_flagship3_company_posts)
      - although not game development i think i could excel once learning the pipeline of software development. I think my strong passion and my current programming skills could really help me develop in this roll
      - Would need to get more experience with python and c++
+
+---
