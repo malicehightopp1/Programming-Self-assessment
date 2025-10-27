@@ -55,6 +55,10 @@
   - Bachler's degree in Fine Arts, Majoring in 3D Animation and Game Design
   - Relevent Coursework: Game engines, Programming languages, Game programming 1
   - Expected graduation: may 2028
+  ## Temple high school | 2020-2024
+  - High school diploma
+  - GPA: 3.97
+  - Graphic design for all 4 years
 
 # Technical skills
   - Languages: C#, C++, Pything
