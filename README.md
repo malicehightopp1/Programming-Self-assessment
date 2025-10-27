@@ -41,3 +41,35 @@
      - Would need to get more experience with python and c++
 
 ---
+# Resume 
+### Brandin Stanfield
+Gameplay/Ui Programmer | Unreal Engines & Unity
+Phone: 254-913-1208
+Email: Brandin.stanfield@gmail.com
+Linkedin: [https://www.linkedin.com/in/brandin-stanfield-b9a6b6334/]
+Portfolio: [https://github.com/malicehightopp1]
+
+# Education 
+  ## University of the Incarnate Word | 2024-2028
+  - Bachler's degree in Fine Arts, Majoring in 3D Animation and Game Design
+  - Relevent Coursework: Game engines, Programming languages, Game programming 1
+  - Expected graduation: may 2028
+
+# Technical skills
+  - Languages: C#, C++, Pything
+  - Game Engines: Unity, Unreal Engines
+  - Tools: Git, Visual Studio, Vscode
+
+# Awards & Certifications
+  - Adobe Certified Associate in Visual Design Using Adobe Photoshop | 2024
+  - Adobe Certified Associate in Graphic Design & Illustration Using Adobe Illustrator | 2024
+
+
+---
+
+
+
+
+
+
+
