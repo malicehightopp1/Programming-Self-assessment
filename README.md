@@ -71,7 +71,8 @@
   - Adobe Certified Associate in Graphic Design & Illustration Using Adobe Illustrator | 2024
 
 
-[Programming resume](https://github.com/user-attachments/files/23174007/Programming.resume.pdf)
+
+[Brandin Stanfield Programming Resume](https://github.com/user-attachments/files/23174244/Brandin.Stanfield.Programming.Resume.pdf)
 
 ---
 
