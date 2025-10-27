@@ -1,9 +1,4 @@
 # Programming-Self-assessment
-
-## Table of contents
-  - [Strength and Weaknesses](#Strength_and_Weaknesses)
-  - [About me](#About_Me)
-
 ---
 # Strength and Weaknesses
   ### Strengths
