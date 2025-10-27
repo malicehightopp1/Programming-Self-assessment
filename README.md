@@ -1,5 +1,9 @@
 # Programming-Self-assessment
 
+## Table of contents
+  - [Strength and Weaknesses](#Strength_and_Weaknesses)
+  - [About me](#About_Me)
+
 ---
 # Strength and Weaknesses
   ### Strengths
@@ -42,9 +46,10 @@
 
 ---
 
-# Brandin Stanfield
+# About Me
+## Brandin Stanfield
 ---
-  ## Gameplay/Ui Programmer | Unreal Engines & Unity
+  ### Gameplay/Ui Programmer | Unreal Engines & Unity
  - Phone: 254-913-1208
  - Email: Brandin.stanfield@gmail.com
  - Linkedin: [https://www.linkedin.com/in/brandin-stanfield-b9a6b6334/]
