@@ -24,26 +24,24 @@
 ---
 # Job findings
 - 1. [Epic games UI/UX](https://www.linkedin.com/jobs/search/?currentJobId=4311226313&f_C=19327&geoId=92000000&origin=COMPANY_PAGE_JOBS_CLUSTER_EXPANSION&originToLandingJobPostings=4312897838%2C4307038568%2C4308287387%2C4311226313%2C4295726691%2C4314579678%2C4311207619%2C4315653966%2C4312650824&trk=d_flagship3_company_posts)
-     - [Brandin Stanfield Programming Resume](https://github.com/user-attachments/files/23174253/Brandin.Stanfield.Programming.Resume.pdf)
      - The position is not just about the job but also about learning and refining my skills in UI/UX, I think i have lots of passion for UI programming and met most the requirements besides the c++ skill requirement. 
      - I would need to work on my c++ skills being the main requirement for this position
 - 2. [Godot programmer](https://www.indeed.com/jobs?q=game+programmer&l=San+Antonio%2C+TX&sc=0kf%3Aattr%2875GKK%29%3B&radius=100&vjk=6bce366b1c193f63)
-     - [Brandin Stanfield Programming Resume](https://github.com/user-attachments/files/23174253/Brandin.Stanfield.Programming.Resume.pdf)
      - This position Requires either GDscripts or C# language. I have a strong understanding of C# and meet most other requirements, Along with this i think i have to passion and prograqmming skills to learn GDScripts
      - i would need to work on my experience in the vr development and vr engine experience
 - 3. [Gameplaye design intern at epic games](https://www.linkedin.com/jobs/search/?currentJobId=4312897838&f_C=19327&geoId=92000000&origin=COMPANY_PAGE_JOBS_CLUSTER_EXPANSION&originToLandingJobPostings=4312897838%2C4307038568%2C4308287387%2C4311226313%2C4295726691%2C4314579678%2C4311207619%2C4315653966%2C4312650824&trk=d_flagship3_company_posts)
-     - [Brandin Stanfield Programming Resume](https://github.com/user-attachments/files/23174253/Brandin.Stanfield.Programming.Resume.pdf)
      - Meet all requirements and have a strong intersting in multiplayer and great communication skills within groups, I think the learning curve for unreal wouldnt effect me as much as i have small experience with unreal and can learn fast
      - something i need to wokr on for this position is my experence with Unreal engine and UEFN experience
 - 4. [Activision summer internship - UI/UX](https://www.linkedin.com/jobs/search/?currentJobId=4296637408&f_C=4048%2C80970%2C2038074%2C9651%2C11905%2C37427%2C30532%2C21344&geoId=92000000&origin=COMPANY_PAGE_JOBS_CLUSTER_EXPANSION&originToLandingJobPostings=4296168115%2C4296160890%2C4312930214%2C4296637408%2C4298140465%2C4297334760%2C4296162519%2C4296171108%2C4308652412&trk=d_flagship3_company_posts)
-     - [Brandin Stanfield Programming Resume](https://github.com/user-attachments/files/23174253/Brandin.Stanfield.Programming.Resume.pdf)
      - Although not a super strong in there required engines i have experience within adobe and programming and can use those strengths to help learn and grow within this position
      - I would need to learn figma and get more experience with Adobe creative Suite 
 - 5. [Winter co-opc - software development](https://www.linkedin.com/jobs/search/?currentJobId=4297334760&f_C=4048%2C80970%2C2038074%2C9651%2C11905%2C37427%2C30532%2C21344&geoId=92000000&origin=COMPANY_PAGE_JOBS_CLUSTER_EXPANSION&originToLandingJobPostings=4296168115%2C4296160890%2C4312930214%2C4296637408%2C4298140465%2C4297334760%2C4296162519%2C4296171108%2C4308652412&trk=d_flagship3_company_posts)
-     - [Brandin Stanfield Programming Resume](https://github.com/user-attachments/files/23174253/Brandin.Stanfield.Programming.Resume.pdf)
      - although not game development i think i could excel once learning the pipeline of software development. I think my strong passion and my current programming skills could really help me develop in this roll
      - Would need to get more experience with python and c++
 
+### Resume 
+     - I believe that my resume is very general and could work for any of these positions
+     - [Brandin Stanfield Programming Resume](https://github.com/user-attachments/files/23174253/Brandin.Stanfield.Programming.Resume.pdf)
 ---
 
 # About Me
